@@ -5,7 +5,6 @@ author: Kelly
 date: 2023-03-09T06:21:54.330Z
 tags:
   - post
-  - featured
 image: /assets/blog/4be93894866f450974e6c9aef1e3d109.png
 imageAlt: Pokemon Advert
 ---
